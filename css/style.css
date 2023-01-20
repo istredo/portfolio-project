@@ -155,7 +155,7 @@ nav .nav__list .list__item--active::before {
   -moz-column-gap: 30px;
        column-gap: 30px;
   justify-content: center;
-  max-height: 1100px;
+  max-height: 2500px;
   align-items: center;
   max-width: 1190px;
 }
